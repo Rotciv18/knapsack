@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555579904 source:c:\users\vrotc\desktop\knapsack\knapsack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"knapsack.h"
+
+1555580453 c:\users\vrotc\desktop\knapsack\knapsack\knapsack.h
+
